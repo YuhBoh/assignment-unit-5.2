@@ -1,0 +1,27 @@
+body {
+  background-image: url(record.png);
+  background-repeat: repeat;
+  background-position: -4% 40%;
+  height: 1000px;
+  margin: 0;
+}
+
+header {
+  background-image: url("nightmare.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 10px;
+  background-position: 0% 35%;
+  text-align: center;
+  color: white;
+}
+
+main {
+  background-image: linear-gradient(black 1%, rgb(176, 174, 174) 50%, black 100%);
+  height: 50px;
+  margin-top: 150px;
+  padding: 1em;
+}
