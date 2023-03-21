@@ -14,13 +14,13 @@ header {
   left: 0;
   right: 0;
   top: 10px;
-  background-position: 0% 35%;
+  background-position: 0% 34%;
   text-align: center;
   color: white;
 }
 
 main {
-  background-image: linear-gradient(black 1%, rgb(176, 174, 174) 50%, black 100%);
+  background-image: linear-gradient(black 11%, rgb(176, 174, 174) 50%, black 90%);
   height: 50px;
   margin-top: 150px;
   padding: 1em;
